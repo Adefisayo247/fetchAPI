@@ -21,7 +21,7 @@ fetch('https://unsplash.it/600/400')
   });
 */
 
-
+//  Added a comment to test git activation
 // ADVANCED DEMO WITH JSONPLACEHOLDER API 
 
 const postSection = document.querySelector('#posts');
